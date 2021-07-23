@@ -1,2 +1,2 @@
-# ThanatosLXH.github.io
+# LXH
 print('hello,world')
